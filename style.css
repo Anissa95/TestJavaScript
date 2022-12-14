@@ -1,0 +1,14 @@
+input[name="success"] {
+    width: 50px;
+    text-align: right;
+    appearance: textfield;
+  }
+  
+  #submitButton {
+    margin: 20px 0;
+  }
+  
+  .output {
+    font-family: monospace;
+  }
+ 
